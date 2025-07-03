@@ -52,6 +52,7 @@ This library hopes to aid in the long-term preservation and enjoyment of these a
 * [Flipnote Archive](https://archive.sudomemo.net/) - an archive of Flipnote animations posted to Flipnote Hatena before its closure in 2013
 * [Flipnote Player](http://flipnote.rakujira.jp/) - web-based browser, player and converter for Flipnote animations
 * [Kaeru Gallery](https://gallery.kaeru.world/) - fan-made replacement online service for Flipnote Studio 3D
+* [Nefal Chat](https://nefalchat.com/) - an interactive chat app for everyone inspired by Frutiger Aero and LG Live Square
 
 ----
 
